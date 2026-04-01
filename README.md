@@ -30,23 +30,6 @@ python inference --input_dir <input_dir> --output_dir <output_dir> [options]
 The training script can refer to the [SEtrain](https://github.com/Xiaobin-Rong/SEtrain) repository.
 
 ## Citation
-If you find this work useful, please cite our paper:
-```bibtex
-@misc{rong2025ulunas,
-      title={UL-UNAS: Ultra-Lightweight U-Nets for Real-Time Speech Enhancement via Network Architecture Search}, 
-      author={Xiaobin Rong and Dahan Wang and Yuxiang Hu and Changbao Zhu and Kai Chen and Jing Lu},
-      year={2025},
-      eprint={2503.00340},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2503.00340}, 
-}
-```
-
-## Contact
-Xiaobin Rong: [xiaobin.rong@smail.nju.edu.cn](mailto:xiaobin.rong@smail.nju.edu.cn)
-
-## Citation
 ```bibtex
 @ARTICLE{ulunas,
   author={Rong, Xiaobin and Yang, Leyan and Wang, Dahan and Hu, Yuxiang and Zhu, Changbao and Chen, Kai and Lu, Jing},
@@ -58,5 +41,10 @@ Xiaobin Rong: [xiaobin.rong@smail.nju.edu.cn](mailto:xiaobin.rong@smail.nju.edu.
   pages={1085-1096},
   keywords={Computational modeling;Computer architecture;Convolution;Speech enhancement;Computational efficiency;Performance evaluation;Computational complexity;Artificial intelligence;Time-frequency analysis;Time-domain analysis;Speech enhancement;ultra-lightweight;neural architecture search;computational complexity},
   doi={10.1109/TASLPRO.2026.3661271}}
+```
+
+## Contact
+Xiaobin Rong: [xiaobin.rong@smail.nju.edu.cn](mailto:xiaobin.rong@smail.nju.edu.cn)
+
 
 ```
