@@ -26,6 +26,9 @@ python inference --input_dir <input_dir> --output_dir <output_dir> [options]
 | `--device`     | default: `cuda:0`     | Torch device to run inference on, e.g., `cuda:0`, `cuda:1`, or `cpu`. |
 | `--extension`  | default: `.wav`       | Audio file extension to process.                             |
 
+## Training
+The training script can refer to the [SEtrain](https://github.com/Xiaobin-Rong/SEtrain) repository.
+
 ## Citation
 If you find this work useful, please cite our paper:
 ```bibtex
